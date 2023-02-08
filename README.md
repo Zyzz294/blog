@@ -2,7 +2,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/96903120/217647850-26a50e6a-3f4e-483c-867c-f66423f2f8e0.png">
 <br>
-<img src="https://user-images.githubusercontent.com/96903120/217648003-ec3cfb9b-0488-420d-81cc-d76130ed697f.png)">
+<img src="https://user-images.githubusercontent.com/96903120/217648003-ec3cfb9b-0488-420d-81cc-d76130ed697f.png">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
